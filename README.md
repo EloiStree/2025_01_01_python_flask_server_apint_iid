@@ -6,6 +6,8 @@
 
 -------------
 
+https://eloistree.github.io/2025_01_01_python_flask_server_apint_iid/www/trusted/RunClient.html
+
 # Flask Server APInt IID
 
 A Flask Landing page for the Raspberry Pi that host some IID APInt feature and servers.
